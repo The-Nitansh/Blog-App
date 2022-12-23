@@ -26,7 +26,6 @@ public class UserRegistration
 	@NotBlank(message="Choose atleast  anyone of the following")
 	private String interest;
 
-
 	//	@Annotation remaining
 	private char[] passcode;
 	
